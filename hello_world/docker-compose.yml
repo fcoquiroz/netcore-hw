@@ -1,11 +1,9 @@
 ﻿version: "3"
 services:
     web:
-        build:
-          context: ./
-          dockerfile: Dockerfile
-        expose:
-            - "5000"
+        build: .
+        ports:
+            - "5000:5000"
     proxy:
         build:
             context:  ./nginx
