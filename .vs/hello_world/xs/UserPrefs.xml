@@ -3,10 +3,9 @@
     <Files>
       <File FileName="hello_world/Pages/Index.cshtml" Line="8" Column="37" />
       <File FileName="hello_world/.dockerignore" Line="2" Column="5" />
-      <File FileName="hello_world/Startup.cs" Line="24" Column="38" />
       <File FileName="hello_world/Dockerfile" Line="15" Column="12" />
       <File FileName="hello_world/nginx/nginx.conf" Line="5" Column="1" />
-      <File FileName="hello_world/docker-compose.yml" Line="8" Column="21" />
+      <File FileName="hello_world/docker-compose.yml" Line="15" Column="18" />
       <File FileName="hello_world/nginx/Dockerfile" Line="1" Column="1" />
     </Files>
     <Pads>
