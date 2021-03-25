@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{38AA10D1-C379-4302-B4FD-920E213AAF50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="nginx/nginx.conf">
+    <Files>
+      <File FileName="Dockerfile" Line="15" Column="12" />
+      <File FileName="nginx/nginx.conf" Line="30" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hello_world" expanded="True">
+            <Node name="hello_world" expanded="True">
+              <Node name="nginx" expanded="True">
+                <Node name="nginx.conf" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hello__world PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
