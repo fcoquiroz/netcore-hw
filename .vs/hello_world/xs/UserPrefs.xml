@@ -1,21 +1,20 @@
 ﻿<Properties StartupConfiguration="{6EF46044-B0E5-4E9E-ADA5-70224E556C22}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="hello_world/nginx/nginx.conf">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hello_world/docker-compose.yml">
     <Files>
       <File FileName="hello_world/Pages/Index.cshtml" Line="8" Column="37" />
       <File FileName="hello_world/.dockerignore" Line="2" Column="5" />
       <File FileName="hello_world/Startup.cs" Line="24" Column="38" />
-      <File FileName="hello_world/docker-compose.yml" Line="12" Column="35" />
-      <File FileName="hello_world/Dockerfile" Line="17" Column="26" />
+      <File FileName="hello_world/Dockerfile" Line="15" Column="12" />
       <File FileName="hello_world/nginx/nginx.conf" Line="11" Column="13" />
+      <File FileName="hello_world/docker-compose.yml" Line="13" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="hello_world" expanded="True">
             <Node name="hello_world" expanded="True">
-              <Node name="nginx" expanded="True">
-                <Node name="nginx.conf" selected="True" />
-              </Node>
+              <Node name="nginx" expanded="True" />
+              <Node name="docker-compose.yml" selected="True" />
             </Node>
           </Node>
         </State>
