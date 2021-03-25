@@ -1,15 +1,17 @@
 ﻿version: "3"
 services:
     web:
-        build: .
-        ports:
-            - "5000:5000"
+        build:
+          context: ./
+          dockerfile: Dockerfile
+        expose:
+            - "5000"
     proxy:
         build:
             context:  ./nginx
             dockerfile: Dockerfile
         ports:
-            - "80:80"
+            - "80:84"
             - "443:443"
         volumes:
              - /etc/letsencrypt/:/etc/letsencrypt/
