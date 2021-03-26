@@ -1,7 +1,6 @@
 ﻿<Properties StartupConfiguration="{38AA10D1-C379-4302-B4FD-920E213AAF50}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="nginx/nginx.conf">
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.yml">
     <Files>
-      <File FileName="Dockerfile" Line="10" Column="1" />
       <File FileName="docker-compose.yml" Line="19" Column="18" />
       <File FileName="nginx/nginx.conf" Line="43" Column="2" />
     </Files>
@@ -10,9 +9,8 @@
         <State name="__root__">
           <Node name="hello_world" expanded="True">
             <Node name="hello_world" expanded="True">
-              <Node name="nginx" expanded="True">
-                <Node name="nginx.conf" selected="True" />
-              </Node>
+              <Node name="nginx" expanded="True" />
+              <Node name="docker-compose.yml" selected="True" />
             </Node>
           </Node>
         </State>
