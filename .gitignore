@@ -1,0 +1,4 @@
+.vs/*
+hello_world/.vs/*
+hello_world/obj/*
+*.cache
