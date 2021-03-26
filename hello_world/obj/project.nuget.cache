@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VVED6nMTTKpWjKeWBUu+vop7MU10VbyZfQdjYsXzh8bH2/uu7vTPQw01URYEs+tfnSqTw4wZEnfEQtnTg5Kf4w==",
+  "dgSpecHash": "sHGwPG+/LmqAKI/begBNo9RgkNEMiw5uLZJw7db2n+mhs19bD1SOYKT+SRxoXuxmbVAvy79d5EmXILJADOqwZQ==",
   "success": true,
-  "projectFilePath": "/Users/fcoquiroz10/Projects/hello_world/hello_world/hello_world.csproj",
+  "projectFilePath": "/Users/fcoquiroz10/Projects/netcore/hello_world/hello_world.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

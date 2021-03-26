@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fcoquiroz10/Projects/hello_world/hello_world/hello_world.csproj": {}
+    "/Users/fcoquiroz10/Projects/netcore/hello_world/hello_world.csproj": {}
   },
   "projects": {
-    "/Users/fcoquiroz10/Projects/hello_world/hello_world/hello_world.csproj": {
+    "/Users/fcoquiroz10/Projects/netcore/hello_world/hello_world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fcoquiroz10/Projects/hello_world/hello_world/hello_world.csproj",
+        "projectUniqueName": "/Users/fcoquiroz10/Projects/netcore/hello_world/hello_world.csproj",
         "projectName": "hello_world",
-        "projectPath": "/Users/fcoquiroz10/Projects/hello_world/hello_world/hello_world.csproj",
+        "projectPath": "/Users/fcoquiroz10/Projects/netcore/hello_world/hello_world.csproj",
         "packagesPath": "/Users/fcoquiroz10/.nuget/packages/",
-        "outputPath": "/Users/fcoquiroz10/Projects/hello_world/hello_world/obj/",
+        "outputPath": "/Users/fcoquiroz10/Projects/netcore/hello_world/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
